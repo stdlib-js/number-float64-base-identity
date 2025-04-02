@@ -224,6 +224,12 @@ int main( void ) {
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/number-float32/base/identity`][@stdlib/number/float32/base/identity]</span><span class="delimiter">: </span><span class="description">evaluate the identity function for a single-precision floating-point number.</span>
+
 </section>
 
 <!-- /.related -->
@@ -301,6 +307,12 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/number-float64-base-identity/main/LICENSE
 
 [identity-function]: https://en.wikipedia.org/wiki/Identity_function
+
+<!-- <related-links> -->
+
+[@stdlib/number/float32/base/identity]: https://github.com/stdlib-js/number-float32-base-identity
+
+<!-- </related-links> -->
 
 </section>
 
