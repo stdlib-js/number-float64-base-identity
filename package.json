@@ -40,8 +40,8 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/math-base-napi-unary": "^0.2.3",
-    "@stdlib/utils-library-manifest": "^0.2.2"
+    "@stdlib/math-base-napi-unary": "^0.2.4",
+    "@stdlib/utils-library-manifest": "^0.2.3"
   },
   "devDependencies": {
     "@stdlib/constants-float64-ninf": "^0.2.2",
@@ -83,7 +83,6 @@
     "dbl",
     "float64"
   ],
-  "__stdlib__": {},
   "funding": {
     "type": "opencollective",
     "url": "https://opencollective.com/stdlib"
