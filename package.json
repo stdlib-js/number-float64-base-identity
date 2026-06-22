@@ -83,7 +83,8 @@
     "double",
     "double-precision",
     "dbl",
-    "float64"
+    "float64",
+    "number"
   ],
   "funding": {
     "type": "opencollective",
